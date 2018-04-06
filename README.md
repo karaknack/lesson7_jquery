@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kara Knack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project displays ingredients and instructions for a brownie recipe. When the user clicks one of the headers, the text fades in slowly.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://karaknack.github.io/lesson7_jquery/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The append() method adds content at the end of the selected statements.
+2. The cuurentTarget event adds animation to the current target function.
+3. Always preview the .html file instead of the .js file!!
 
